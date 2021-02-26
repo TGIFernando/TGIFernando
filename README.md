@@ -2,9 +2,9 @@
 
 Hi, I'm Fernando! I am a full stack web developer who loves figuring out creative solutions to problems. 
 
-- 🔭 I’m currently working on ... Story Squad!!!!
+- 🔭 I’m currently working on ... [Story Squad](https://github.com/Lambda-School-Labs/story-squad-be-b)!!!!
 - 💬 Ask me about ... Anything!
-- 📫 How to reach me: ... [Portfolio](https://tgif-portfolio.vercel.app/)
+- 📫 How to reach me: ... [Portfolio](https://tgifernando.com/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I can solve a rubix cube and im color blind!
 
